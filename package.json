@@ -2,7 +2,7 @@
   "name": "brickfrog-io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://brickfrog.github.io/brickfrog.github.io",
+  "homepage": "https://brickfrog.github.io/",
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.9.0",
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
