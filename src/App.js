@@ -26,6 +26,9 @@ class App extends Component {
             <Route path='/projects' component={Projects}/>
             <Route path='/posts' component={Posts}/>
             <Route path='/about' component={About}/>
+	    <Route path='/notion' component={() => { 
+     		window.location.href = 'https://www.notion.so/brickfrog/The-Compendium-0793c301c7194bb99fd1214a2fac672e'; 
+    		return null;}}/>
             <Footer/>
           </div>
         </Router>
