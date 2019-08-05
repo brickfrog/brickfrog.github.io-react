@@ -39,14 +39,11 @@ class Navigation extends React.Component {
               <NavItem>
                 <NavLink href='/projects/'>Projects</NavLink>
               </NavItem>
-              <NavItem>
-                <NavLink href='/posts/'>Posts</NavLink>
-              </NavItem>
-              <NavItem>
-                <NavLink href='/about/'>About</NavLink>
+	      <NavItem>
+                <NavLink href='/blog/'>Blog [External]</NavLink>
               </NavItem>
 	      <NavItem>
-                <NavLink href='/notion/'>Notion</NavLink>
+                <NavLink href='/notion/'>Notion [External]</NavLink>
               </NavItem>
             </Nav>
           </Collapse>
